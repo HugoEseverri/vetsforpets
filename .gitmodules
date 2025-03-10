@@ -1,0 +1,6 @@
+[submodule "Front-PF-VetsForPets"]
+	path = Front-PF-VetsForPets
+	url = https://github.com/vetsforpets/Front-PF-VetsForPets.git
+[submodule "Back-PF-VetsForPets"]
+	path = Back-PF-VetsForPets
+	url = https://github.com/vetsforpets/Back-PF-VetsForPets.git
